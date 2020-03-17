@@ -1,4 +1,4 @@
-use serde_json::{ Value};
+use serde_json::Value;
 use std::collections::btree_map::Entry;
 use std::collections::BTreeMap;
 use std::ops::AddAssign;
